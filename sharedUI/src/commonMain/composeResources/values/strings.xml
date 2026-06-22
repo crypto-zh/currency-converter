@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="search">Search...</string>
+    <string name="nothing_was_found">Nothing was found</string>
+    <string name="add_currency">Add currency</string>
+    <string name="error_message">Couldn't load currency rates</string>
+    <string name="enter_amount">Enter the amount in any field</string>
+    <string name="downloading_currency">Downloading currency exchange rates...</string>
+    <string name="no_added_currencies">There are no added currencies</string>
+    <string name="press_plus">Press "+" to add the first currency.</string>
+</resources>
